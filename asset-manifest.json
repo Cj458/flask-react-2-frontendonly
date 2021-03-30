@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/flask-react-2-frontendonly/static/css/main.74eab4de.chunk.css",
+    "main.js": "/flask-react-2-frontendonly/static/js/main.6b88a3aa.chunk.js",
+    "main.js.map": "/flask-react-2-frontendonly/static/js/main.6b88a3aa.chunk.js.map",
+    "runtime-main.js": "/flask-react-2-frontendonly/static/js/runtime-main.18954ea5.js",
+    "runtime-main.js.map": "/flask-react-2-frontendonly/static/js/runtime-main.18954ea5.js.map",
+    "static/js/2.bd886a2b.chunk.js": "/flask-react-2-frontendonly/static/js/2.bd886a2b.chunk.js",
+    "static/js/2.bd886a2b.chunk.js.map": "/flask-react-2-frontendonly/static/js/2.bd886a2b.chunk.js.map",
+    "index.html": "/flask-react-2-frontendonly/index.html",
+    "static/css/main.74eab4de.chunk.css.map": "/flask-react-2-frontendonly/static/css/main.74eab4de.chunk.css.map",
+    "static/js/2.bd886a2b.chunk.js.LICENSE.txt": "/flask-react-2-frontendonly/static/js/2.bd886a2b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18954ea5.js",
+    "static/js/2.bd886a2b.chunk.js",
+    "static/css/main.74eab4de.chunk.css",
+    "static/js/main.6b88a3aa.chunk.js"
+  ]
+}
